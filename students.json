@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "rollNo": "21B81A05W6",
+      "name": "Kammari Shruthilaya",
+      "branch": "CSE",
+      "section": "E",
+      "id": "675"
+    },
+    {
+      "id": "969",
+      "rollNo": "21B81A05W1",
+      "name": "Sanjitha",
+      "branch": "CSE",
+      "section": "E"
+    }
+  ]
+}
